@@ -1,9 +1,7 @@
 # Caveman and Wolf Executable
 
 
-Note: This is pre final build, so the U.I is not complete and some gamplay elements need polishing and tweaking. 
 
-Note: Please don't use powerups in single player mode for now. (Not complete)
 
 
 Story:
